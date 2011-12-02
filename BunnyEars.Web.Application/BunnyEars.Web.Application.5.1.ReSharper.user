@@ -7,7 +7,10 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
+    <RecentFiles>
+      <File id="FE61DB4F-1E44-44B5-8439-5050EC9597BE/f:packages.config" caret="785" fromTop="15" />
+      <File id="FE61DB4F-1E44-44B5-8439-5050EC9597BE/f:Web.config" caret="807" fromTop="16" />
+    </RecentFiles>
     <RecentEdits />
   </RecentFiles>
   <NAntValidationSettings>
